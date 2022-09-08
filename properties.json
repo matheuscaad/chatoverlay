@@ -1,14 +1,14 @@
 {
-  "originUrl": "https://dinersclub.demo.amelia.com/",
-  "ameliaUrl": "https://dinersclub.demo.amelia.com/Amelia/ui/dinersclub/?domainCode=dinersclub",
-  "chatUrl": "https://dinersclub.demo.amelia.com/Amelia/ui/dinersclub/",
-  "parentUrl": "https://www.dinersclub.com.ec/",
+  "originUrl": "https://bsh.demo.amelia.com/",
+  "ameliaUrl": "https://bsh.demo.amelia.com/Amelia/ui/BSH/?domainCode=bshpoc",
+  "chatUrl": "https://bsh.demo.amelia.com/Amelia/ui/BSH/",
+  "parentUrl": "https://www.bsh-group.com/",
   "actions": {
-    "nav_titanium-visa-corporate": {
-      "url": "https://www.dinersclub.com.ec/empresas/tarjetas-corporativas-titanium/titanium-visa-corporate"
+    "nav_customer-care": {
+      "url": "https://www.bsh-group.com/products-brands/customer-care"
     },
-    "nav_plan-de-ahorro-diners-club-pad": {
-      "url": "https://www.dinersclub.com.ec/ahorros/plan-de-ahorro-diners-club-pad"
+    "nav_home": {
+      "url": "https://www.bsh-group.com/products-brands/customer-care"
     }
   }
 }
