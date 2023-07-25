@@ -1,7 +1,7 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
   "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/scb/?domainCode=cajamar",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/scb/",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/scb/?domainCode=cajamar",
   "parentUrl": "https://www.sc.com/en/",
   "actions": {
     "nav_customer-care": {
