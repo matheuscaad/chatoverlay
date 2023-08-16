@@ -1,7 +1,7 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat?domainCode=bankingservices&language=es",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat?domainCode=bankingservices&language=es",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat?domainCode=banking&language=es",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat?domainCode=banking&language=es",
   "parentUrl": "https://www.banamex.com/es/personas/cuentas/mi-cuenta-debito.html",
   "actions": {
     "nav_customer-care": {
