@@ -1,8 +1,8 @@
 {
-  "originUrl": "https://retail.demo.amelia.com/",
-  "ameliaUrl": "https://retail.demo.amelia.com/Amelia/ui/retail/chat?domainCode=retail&language=es",
-  "chatUrl": "https://retail.demo.amelia.com/Amelia/ui/retail/chat?domainCode=retail&language=es",
-  "parentUrl": "https://amcargo.aeromexico.com",
+  "originUrl": "https://us.demo.amelia.com/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat/chat?domainCode=cajamar",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat/chat?domainCode=cajamar",
+  "parentUrl": "https://www.nos.pt",
   "actions": {
     "nav_customer-care": {
       "url": "https://www.bsh-group.com/products-brands/customer-care"
