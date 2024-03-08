@@ -1,7 +1,7 @@
 {
   "originUrl": "https://us.demo1.amelia.com/",
-  "ameliaUrl": "https://us.demo1.amelia.com/Amelia/ui/matheus/chat/chat?domainCode=iberiademo&language=es",
-  "chatUrl": "https://us.demo1.amelia.com/Amelia/ui/matheus/chat/chat?domainCode=iberiademo&language=es",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat/chat?domainCode=iberialatam&language=es",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat/chat?domainCode=iberialatam&language=es",
   "parentUrl": "https://www.compartamos.com.mx/compartamos",
   "actions": {
     "nav_customer-care": {
