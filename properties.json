@@ -1,8 +1,8 @@
 {
-  "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat/chat?domainCode=banking&language=es",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat/chat?domainCode=banking&language=es",
-  "parentUrl": "https://www.produbanco.com.ec/",
+  "originUrl": "https://us.demo1.amelia.com/",
+  "ameliaUrl": "https://us.demo1.amelia.com/Amelia/ui/iberiademo/chat?domain=iberiademo&language=es",
+  "chatUrl": "https://us.demo1.amelia.com/Amelia/ui/iberiademo/chat?domain=iberiademo&language=es",
+  "parentUrl": "https://www.unicajabanco.es/es/particulares",
   "actions": {
     "nav_customer-care": {
       "url": "https://www.bsh-group.com/products-brands/customer-care"
