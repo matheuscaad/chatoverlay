@@ -1,7 +1,7 @@
 {
-  "originUrl": "https://us.demo1.amelia.com/",
-  "ameliaUrl": "https://us.demo1.amelia.com/Amelia/ui/iberiademo/chat?domain=iberiademo&language=es",
-  "chatUrl": "https://us.demo1.amelia.com/Amelia/ui/iberiademo/chat?domain=iberiademo&language=es",
+  "originUrl": "https://us.demo.amelia.com/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/capbrazil/chat?domain=capbrazil",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/capbrazil/chat?domain=capbrazil",
   "parentUrl": "https://www.capgemini.com/",
   "actions": {
     "nav_customer-care": {
