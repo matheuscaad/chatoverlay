@@ -1,7 +1,7 @@
 {
   "originUrl": "https://nos.demo.amelia.com/",
-  "ameliaUrl": "https://nos.demo.amelia.com/Amelia/ui/nosdemo/chat?domain=nosdemo",
-  "chatUrl": "https://nos.demo.amelia.com/Amelia/ui/nosdemo/chat?domain=nosdemo",
+  "ameliaUrl": "https://nos.demo.amelia.com/Amelia/ui/nosdemo/chat?domain=nosdemo&language=pt",
+  "chatUrl": "https://nos.demo.amelia.com/Amelia/ui/nosdemo/chat?domain=nosdemo&language=pt",
   "parentUrl": "https://www.nos.pt/",
   "actions": {
     "nav_customer-care": {
