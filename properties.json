@@ -1,7 +1,7 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/esbanking/chat?domainCode=esbanking&language=es",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/esbanking/chat?domainCode=esbanking&language=es",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat?domainCode=esbanking&language=es",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat?domainCode=esbanking&language=es",
   "parentUrl": "https://www.abanca.com/es/",
   "actions": {
     "nav_customer-care": {
