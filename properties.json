@@ -1,7 +1,7 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat?domainCode=telco&language=es",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat?domainCode=telco&language=es",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat?domainCode=telcomatheus&language=es",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat?domainCode=telcomatheus&language=es",
   "parentUrl": "https://www.vodafone.es/c/particulares/es/",
   "actions": {
     "nav_customer-care": {
