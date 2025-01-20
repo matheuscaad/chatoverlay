@@ -1,8 +1,8 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat?domainCode=telcomatheus&language=es",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat?domainCode=telcomatheus&language=es",
-  "parentUrl": "https://www.vodafone.es/c/particulares/es/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/haven/chat?domainCode=matheushospitality",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/haven/chat?domainCode=matheushospitality",
+  "parentUrl": "https://www.haven.com/",
   "actions": {
     "nav_customer-care": {
       "url": "https://www.bsh-group.com/products-brands/customer-care"
