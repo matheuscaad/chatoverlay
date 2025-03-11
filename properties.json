@@ -1,8 +1,8 @@
 {
   "originUrl": "https://rnd-v7.dev.amelia.com/",
-  "ameliaUrl": "https://rnd-v7.dev.amelia.com/Amelia/ui/matheusdias/chat?domain=agenticcustomercare",
-  "chatUrl": "https://rnd-v7.dev.amelia.com/Amelia/ui/matheusdias/chat?domain=agenticcustomercare",
-  "parentUrl": "https://www.bosch.com.br/",
+  "ameliaUrl": "https://rnd-v7.dev.amelia.com/Amelia/ui/matheusdias/chat?domain=agentichospitality",
+  "chatUrl": "https://rnd-v7.dev.amelia.com/Amelia/ui/matheusdias/chat?domain=agentichospitality",
+  "parentUrl": "https://www.costacrociere.it/",
   "actions": {
     "nav_customer-care": {
       "url": "https://www.bsh-group.com/products-brands/customer-care"
