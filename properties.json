@@ -1,8 +1,8 @@
 {
   "originUrl": "https://rnd-v7.dev.amelia.com/",
-  "ameliaUrl": "https://rnd-v7.dev.amelia.com/Amelia/ui/matheusdias/chat?domain=agentichospitality",
-  "chatUrl": "https://rnd-v7.dev.amelia.com/Amelia/ui/matheusdias/chat?domain=agentichospitality",
-  "parentUrl": "https://www.costacruzeiros.com",
+  "ameliaUrl": "https://rnd-v7.dev.amelia.com/Amelia/ui/matheusdias/chat?domain=ccep",
+  "chatUrl": "https://rnd-v7.dev.amelia.com/Amelia/ui/matheusdias/chat?domain=ccep",
+  "parentUrl": "https://procurement.airfranceklm.com/procurement/en/pageStandard/homepage.html",
   "actions": {
     "nav_customer-care": {
       "url": "https://www.bsh-group.com/products-brands/customer-care"
