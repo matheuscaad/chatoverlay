@@ -1,7 +1,7 @@
 {
   "originUrl": "https://us.demo1.amelia.com/",
-  "ameliaUrl": "https://us.demo1.amelia.com/Amelia/ui/matheusdias/chat?domain=agenticcustomercare",
-  "chatUrl": "https://us.demo1.amelia.com/Amelia/ui/matheusdias/chat?domain=agenticcustomercare",
+  "ameliaUrl": "https://us.demo1.amelia.com/Amelia/ui/matheusdias/chat?domain=ccep",
+  "chatUrl": "https://us.demo1.amelia.com/Amelia/ui/matheusdias/chat?domain=ccep",
   "parentUrl": "https://www.post.at/en/",
   "actions": {
     "nav_customer-care": {
